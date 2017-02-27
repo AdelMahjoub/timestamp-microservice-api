@@ -1,6 +1,4 @@
 # Timestamp Microservice API
-## About
-[time-microservice-api](https://time-microservice-api.herokuapp.com/) provides free usage of its timestamp API through JSON response format.
 
 ## Usage
 To receive the response, send a GET request to
