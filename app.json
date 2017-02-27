@@ -1,0 +1,8 @@
+{
+  "name": "Timestamp microservice",
+  "description": "return various date format for a given date",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "moment", "dates", "timestamp"],
+  "image": ""
+}
