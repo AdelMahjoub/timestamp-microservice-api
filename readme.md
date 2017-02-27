@@ -1,13 +1,13 @@
 # Timestamp Microservice API
 ## About
-url provides free usage of its timestamp API through JSON response format.
+[time-microservice-api](https://time-microservice-api.herokuapp.com/) provides free usage of its timestamp API through JSON response format.
 
 ## Usage
 To receive the response, send a GET request to
 
-**/api/*datestring*** 
+https://time-microservice-api.herokuapp.com/api/ **datestring** 
 
-Where  ** *datestring* ** can be a:
+Where  **datestring** can be a:
 
 - Any [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date.
 - A [Unix timestamp](https://en.wikipedia.org/wiki/Unix_time).
